@@ -20,6 +20,6 @@ class ChatVC: UIViewController {
         self.view.addGestureRecognizer(self.revealViewController().panGestureRecognizer()) //for sliding into and out of the menu
         self.view.addGestureRecognizer(self.revealViewController().tapGestureRecognizer()) //for tapping out of the menu
     }
-
+   
   
 }

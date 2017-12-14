@@ -11,4 +11,5 @@ target 'Smack-app' do
   pod 'SwiftyJSON'
   pod 'Alamofire'
   pod 'Socket.IO-Client-Swift'
+  pod 'SnapKit', '~> 4.0.0'
 end

@@ -14,7 +14,7 @@
             buildForArchiving = "YES">
             <BuildableReference
                BuildableIdentifier = 'primary'
-               BlueprintIdentifier = 'D92372BDEACC86D49700F2C4BB6FC1C2'
+               BlueprintIdentifier = '0C80CE7A6915A549EDAC2B23A0A56BE8'
                BlueprintName = 'Pods-Smack-app'
                ReferencedContainer = 'container:Pods.xcodeproj'
                BuildableName = 'Pods-Smack-app.framework'>
